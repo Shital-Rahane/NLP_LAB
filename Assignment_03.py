@@ -1,6 +1,6 @@
 ###  Assignment No 3 ###
 #Name : Shital Rahane
-#Batch : B2
+#Batch : B3
 #Roll No : 48
 #Assignment Title : Name Entity Recognition in python with spacy
 
