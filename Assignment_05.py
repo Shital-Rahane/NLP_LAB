@@ -2,7 +2,8 @@
 #Name : Shital Rahane
 #Batch : B2
 #Roll No : 48
-#Assignment Title : Name Entity Recognition in python with spacy
+"""Assignment Title :  Implement regular expression function to find URL, IP address, Date,
+PAN number in textual data using python libraries"""
 
 
 import spacy
