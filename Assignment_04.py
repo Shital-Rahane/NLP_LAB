@@ -2,7 +2,8 @@
 #Name : Shital Rahane
 #Batch : B2
 #Roll No : 48
-#Assignment Title : Name Entity Recognition in python with spacy
+"""Assignment Title : Implement Bi-gram, Tri-gram word sequence and its count in text input
+data using NLTK library"""
 
 
 from nltk import ngrams
